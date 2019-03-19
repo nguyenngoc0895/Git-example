@@ -1,3 +1,3 @@
 <?
-echo 'my app';
+echo 'your app';
 ?>
